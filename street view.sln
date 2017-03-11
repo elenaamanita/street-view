@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "street view.CSharp.Plugins", "street view.CSharp.Plugins.csproj", "{AC05EF6C-BF49-2611-F7C9-AD27CEBD8980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "street view.CSharp", "street view.CSharp.csproj", "{6A8F9C49-36E8-7404-D79C-1B5C24D1FB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "street view.CSharp.Editor", "street view.CSharp.Editor.csproj", "{1E3664B8-5267-0472-6B62-788DC8663FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC05EF6C-BF49-2611-F7C9-AD27CEBD8980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC05EF6C-BF49-2611-F7C9-AD27CEBD8980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC05EF6C-BF49-2611-F7C9-AD27CEBD8980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC05EF6C-BF49-2611-F7C9-AD27CEBD8980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8F9C49-36E8-7404-D79C-1B5C24D1FB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8F9C49-36E8-7404-D79C-1B5C24D1FB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8F9C49-36E8-7404-D79C-1B5C24D1FB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8F9C49-36E8-7404-D79C-1B5C24D1FB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3664B8-5267-0472-6B62-788DC8663FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3664B8-5267-0472-6B62-788DC8663FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3664B8-5267-0472-6B62-788DC8663FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3664B8-5267-0472-6B62-788DC8663FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
